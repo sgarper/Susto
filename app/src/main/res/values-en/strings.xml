@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scare</string>
+    <string name="uno">Functioning</string>
+    <string name="dos">1-Indicate number of scares.</string>
+    <string name="tres">2-Choose among the 10 available scares.</string>
+    <string name="cuatro">3-Indicate countdown of the shock.</string>
+    <string name="cinco">4-Press button to start the countdown.</string>
+    <string name="crear">Create scare</string>
+</resources>

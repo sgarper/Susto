@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Susto</string>
+    <string name="uno">Funcionamiento</string>
+    <string name="dos">1-Indicar numero de sustos.</string>
+    <string name="tres">2-Elegir entre los 10 sustos disponibles.</string>
+    <string name="cuatro">3-Indicar cuenta atrás del susto.</string>
+    <string name="cinco">4-Pulsar boton para que empiece la cuenta atrás.</string>
+    <string name="crear">Crear susto</string>
+</resources>
